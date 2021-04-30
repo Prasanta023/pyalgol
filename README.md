@@ -1,1 +1,1 @@
-#This is a collecton of python program for classic computer scince algorithms.
+#This is a collecton of python programs for classic computer science algorithms.
